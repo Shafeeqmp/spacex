@@ -1,0 +1,317 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+.menu_bar{
+    display: flex;
+    padding-left: 250px;
+    list-style-type: none;
+    margin-top: -23px;
+    font-size: 11px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.menu_bar a{
+    padding: 10px;
+}
+.logo{
+ margin-top: 35px;
+ margin-left: 27px;
+}
+.header{
+    width: 100%;
+    height: 100vh;
+    background-image: url(Image/background.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.nav_menu ul a{
+    color: #fff;
+
+}
+.menu_bar2{
+    padding-left: 1000px;
+    margin-top: -12px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.menu_bar2 a{
+    padding: 75px;
+}
+.background1{
+    width: 100%;
+    height: 100vh;
+    background-image: url(Image/Image_1.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.background2{
+    width: 100%;
+    height: 100vh;
+    background-image: url(Image/Image_2.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.menu_bar2 a{
+    color: #fff;
+}
+.background3{
+    width: 100%;
+    height: 100vh;
+    background-image: url(Image/Image_3.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.background4{
+    width: 100%;
+    height: 100vh;
+    background-image: url(Image/Image_4.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.background5{
+    width: 100%;
+    height: 100vh;
+    background-image: url(Image/Image_5.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.text1{
+    position: absolute;
+    bottom: 100px;
+    left: 60px;
+    color: #fff;
+    
+}
+.text1 h2{
+    font-size: 40px;
+    font-weight: 700;
+}
+.text1 p{
+    font-size: 18px;
+}
+.btn{
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    min-width: 95px;
+    padding: 12px 25px;
+    margin-top: 10px;
+    border: 2px solid #fff;
+    text-transform: uppercase;
+    font-weight: bold;
+    overflow: hidden;
+    z-index: 2;
+}
+.btn:hover span{
+    color: #000;
+
+}
+.text2{
+    position: absolute;
+    left: 60px;
+    color: #fff;
+    top: 950px;
+    
+}
+.text2 h2{
+    font-size: 40px;
+    font-weight: 700;
+}
+.text2 p{
+    font-size: 18px;
+}
+.btn2{
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    min-width: 95px;
+    padding: 12px 15px;
+    margin-top: 10px;
+    border: 2px solid #fff;
+    text-transform: uppercase;
+    font-weight: bold;
+    overflow: hidden;
+    z-index: 2;
+}
+.btn2:hover span{ 
+    color: #000;
+}
+.btn3{
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    min-width: 95px;
+    padding: 12px 15px;
+    margin-top: 10px;
+    border: 2px solid #fff;
+    text-transform: uppercase;
+    font-weight: bold;
+    overflow: hidden;
+    z-index: 2;
+}
+    .btn3:hover span{
+        color: #000;
+    }
+    .text3{
+        position: absolute;
+        left: 60px;
+        color: #fff;
+        top: 1570px;
+        
+    }
+    .text3 h2{
+        font-size: 40px;
+        font-weight: 700;
+    }
+    .text3 p{
+        font-size: 18px;
+    }
+    .text4{
+        position: absolute;
+        left: 60px;
+        color: #fff;
+        top: 2160px;
+        
+    }
+    .text4 h2{
+        font-size: 40px;
+        font-weight: 700;
+    }
+    .text4 p{
+        font-size: 18px;
+    }
+    .btn4{
+        position: relative;
+        display: inline-block;
+        cursor: pointer;
+        text-align: center;
+        min-width: 95px;
+        padding: 12px 15px;
+        margin-top: 10px;
+        border: 2px solid #fff;
+        text-transform: uppercase;
+        font-weight: bold;
+        overflow: hidden;
+        z-index: 2;
+    }
+        .btn4:hover span{
+            color: #000;
+        }
+        .text5{
+            position: absolute;
+            left: 60px;
+            color: #fff;
+            top: 2720px;
+            
+        }
+        .text5 h2{
+            font-size: 40px;
+            font-weight: 700;
+        }
+        .text5 p{
+            font-size: 18px;
+        }
+        .btn5{
+            position: relative;
+            display: inline-block;
+            cursor: pointer;
+            text-align: center;
+            min-width: 95px;
+            padding: 12px 15px;
+            margin-top: 10px;
+            border: 2px solid #fff;
+            text-transform: uppercase;
+            font-weight: bold;
+            overflow: hidden;
+            z-index: 2;
+        }
+        .btn5:hover span{
+            color: #000;
+        }
+        .text6{
+            position: absolute;
+            left: 60px;
+            color: #fff;
+            top: 3300px;
+            
+        }
+        .text6 h2{
+            font-size: 40px;
+            font-weight: 700;
+        }
+        .text6 p{
+            font-size: 18px;
+        }
+        .btn6{
+            position: relative;
+            display: inline-block;
+            cursor: pointer;
+            text-align: center;
+            min-width: 95px;
+            padding: 12px 15px;
+            margin-top: 10px;
+            border: 2px solid #fff;
+            text-transform: uppercase;
+            font-weight: bold;
+            overflow: hidden;
+            z-index: 2;
+        }
+        .btn6:hover span{
+            color: #000;
+        }
+        .footer{
+            position: relative;
+            padding: 35px;
+            background-color: black;
+        }
+.footer ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-right: 30px;
+    color: #fff;
+    list-style: none;
+}
+.footer_item li{ 
+    color: #fff;
+    margin-right: 20px;
+    font-size: 12px;
+}
+.footer_item li a{ 
+    color: #fff;
+    margin-right: 20px;
+    font-size: 12px;
+}
+.hamburger{
+    position: absolute;
+    top: 45px;
+    right: 167px;
+    z-index: 10;
+    cursor: pointer;
+    width: 20px;
+    height: 20px;
+    background: none;
+    border: none;
+}
+.hamburger-top,
+.hamburger-middle,
+.hamburger-bottom{
+    position: absolute;
+    width: 20px;
+    height: 2px;
+    top: 0;
+    left: 0;
+    background: #fff;
+}
+.hamburger-middle{
+    transform: translateY(5px);
+}
+.hamburger-bottom{
+    transform: translateY(10px);
+}
